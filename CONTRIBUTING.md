@@ -120,7 +120,8 @@ git push origin main
 
 - Create **one Pull Request per issue**.
 - Keep commits meaningful.
-- Follow the existing folder structure and coding style.
+- Put your solutions inside the solutions folder
+- Do not commit files such as .exe, .idea etc. Put them inside a .gitignore file.
 - Test your code before submitting.
 - Be respectful during reviews and discussions.
 
